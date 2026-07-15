@@ -1,0 +1,5 @@
+keyboard
+pynput
+psutil
+pywin32
+opencv-python
